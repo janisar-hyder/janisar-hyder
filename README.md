@@ -18,7 +18,7 @@ I'm always open to collaborations and learning opportunities. If you share my pa
 
 📫 Contact Me:
 📧 Email: janisarhyder90@gmail.com
-🌐 LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+🌐 LinkedIn: www.linkedin.com/in/janisar-haider-07a19824b
 🐦 Twitter: @MJ_Hyder
 🧑‍💻 My Certifications are:
 - https://coursera.org/share/c1951f16b8e2fe88e83f3d3a892ff962
