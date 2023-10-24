@@ -24,5 +24,6 @@ I'm always open to collaborations and learning opportunities. If you share my pa
 - https://coursera.org/share/c1951f16b8e2fe88e83f3d3a892ff962
 - https://coursera.org/share/e82b86834be7e72c6fc31f3850c25be8
 - https://coursera.org/share/0b870c7e5a61bf7060ecddf0150b3821
+- https://coursera.org/share/539ce2cb8d792be65400d422ef8262b9
 
 🚀 Happy Coding!
