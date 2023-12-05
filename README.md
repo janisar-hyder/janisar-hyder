@@ -1,7 +1,5 @@
 👋 Hello World! I'm Muhammad Janisar
 
-My Portfolio: https://janisar-hyder.github.io/Portfolio/
-
 🎓 Computer Science Student at COMSATS University Islamabad
 🚀 Front-End Web Developer | 💻 Programmer | 🌐 Tech Enthusiast
 
@@ -19,6 +17,7 @@ I'm constantly expanding my skill set and exploring new technologies. Currently,
 I'm always open to collaborations and learning opportunities. If you share my passion for front-end development or have an exciting project in mind, feel free to reach out! Let's connect and create something amazing together.
 
 📫 Contact Me:
+My Portfolio: https://janisar-hyder.github.io/Portfolio/
 📧 Email: janisarhyder90@gmail.com
 🌐 LinkedIn: www.linkedin.com/in/janisar-haider-07a19824b
 🐦 Twitter: @MJ_Hyder
