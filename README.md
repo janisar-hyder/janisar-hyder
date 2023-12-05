@@ -17,11 +17,17 @@ I'm constantly expanding my skill set and exploring new technologies. Currently,
 I'm always open to collaborations and learning opportunities. If you share my passion for front-end development or have an exciting project in mind, feel free to reach out! Let's connect and create something amazing together.
 
 📫 Contact Me:
+
 My Portfolio: https://janisar-hyder.github.io/Portfolio/
+
 📧 Email: janisarhyder90@gmail.com
+
 🌐 LinkedIn: www.linkedin.com/in/janisar-haider-07a19824b
+
 🐦 Twitter: @MJ_Hyder
-🧑‍💻 My Certifications are:
+
+My Certifications are:
+
 - https://coursera.org/share/c1951f16b8e2fe88e83f3d3a892ff962
 - https://coursera.org/share/e82b86834be7e72c6fc31f3850c25be8
 - https://coursera.org/share/0b870c7e5a61bf7060ecddf0150b3821
