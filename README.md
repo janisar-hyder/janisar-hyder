@@ -20,11 +20,9 @@ I'm always open to collaborations and learning opportunities. If you share my pa
 
 My Portfolio: https://janisar-hyder.github.io/Portfolio/
 
-📧 Email: janisarhyder90@gmail.com
+📧 Email: janisarhyderweb@gmail.com
 
 🌐 LinkedIn: www.linkedin.com/in/janisar-haider-07a19824b
-
-🐦 Twitter: @MJ_Hyder
 
 My Certifications are:
 
