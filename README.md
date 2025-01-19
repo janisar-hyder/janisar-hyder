@@ -1,6 +1,13 @@
 # 💫 About Me:
 👋 Hello World! I'm Muhammad Janisar<br>
-🔭 I’m currently working on:<br>Building dynamic and scalable web applications using the MERN stack and exploring new project ideas to enhance user experiences.<br><br>👯 I’m looking to collaborate on:<br>Open-source projects, innovative web development solutions, and impactful Next.js applications.<br><br>🤝 I’m looking for help with:<br>Exploring advanced concepts in Next.js and optimizing web application performance.<br><br>🌱 I’m currently learning:<br>Next.js, server-side rendering, and improving the developer experience with modern frameworks.<br><br>💬 Ask me about:<br>MERN stack development, deploying applications on AWS, Heroku, or Vercel, and crafting efficient, user-focused web solutions.<br><br>⚡ Fun fact:<br>When I’m not coding, I enjoy exploring tech innovations, sharing knowledge, and discovering ways to make development more efficient and fun!
+🔭 I’m currently working on:<br>Building dynamic and scalable web applications using the MERN stack and exploring new project ideas to enhance user experiences.<br><br>👯 I’m looking to collaborate on:<br>Open-source projects, innovative web development solutions, and impactful Next.js applications.<br><br>🤝 I’m looking for help with:<br>Exploring advanced concepts in Next.js and optimizing web application performance.<br><br>🌱 I’m currently learning:<br>Next.js, server-side rendering, and improving the developer experience with modern frameworks.<br><br>💬 Ask me about:<br>MERN stack development, deploying applications on AWS, Heroku, or Vercel, and crafting efficient, user-focused web solutions.<br><br>⚡ Fun fact:<br>When I’m not coding, I enjoy exploring tech innovations, sharing knowledge, and discovering ways to make development more efficient and fun!<br>
+My Portfolio: https://janisarhyder.netlify.app/<br>
+📧 Email: janisarhyderweb@gmail.com<br>
+My Certifications are:
+- https://coursera.org/share/c1951f16b8e2fe88e83f3d3a892ff962
+- https://coursera.org/share/e82b86834be7e72c6fc31f3850c25be8
+- https://coursera.org/share/0b870c7e5a61bf7060ecddf0150b3821
+- https://coursera.org/share/539ce2cb8d792be65400d422ef8262b9
 
 
 ## 🌐 Socials:
