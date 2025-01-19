@@ -18,7 +18,7 @@ I'm always open to collaborations and learning opportunities. If you share my pa
 
 📫 Contact Me:
 
-My Portfolio: https://janisar-hyder.github.io/Portfolio/
+My Portfolio: https://janisarhyder.netlify.app/
 
 📧 Email: janisarhyderweb@gmail.com
 
