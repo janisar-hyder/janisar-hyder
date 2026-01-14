@@ -1,52 +1,51 @@
-# [cite_start]🚀 **MUHAMMAD JANISAR** [cite: 16]
-### **FULL STACK DEVELOPER** | [cite_start]**Node.js • React • Angular • AWS • Supabase • Python** [cite: 17]
+# 🚀 **MUHAMMAD JANISAR**
+### **FULL STACK DEVELOPER** | **Node.js • React • Angular • AWS • Supabase • Python**
 
 ---
 
 ### 👤 **PROFESSIONAL SUMMARY**
-> [cite_start]**"I am a Full Stack Developer who enjoys building websites from start to finish."** [cite: 20]
+> **"I am a Full Stack Developer who enjoys building websites from start to finish."**
 > 
-> [cite_start]**"I love taking a complex idea and turning it into clean, working code that is easy for people to use."** [cite: 24]
+> **"I love taking a complex idea and turning it into clean, working code that is easy for people to use."**
 
 ---
 
 ### 🛠 **TECHNICAL ARSENAL**
 
-* [cite_start]**FRONTEND:** **React** and **Angular** for building dynamic user interfaces. [cite: 21]
-* [cite_start]**BACKEND:** **Node.js** and **Python** for robust backend logic. [cite: 21]
-* [cite_start]**CLOUD & DATA:** **AWS** and **Supabase** for cloud hosting and database management. 
-* [cite_start]**CORE SKILLS:** **Machine Learning Algorithms**, **Operating Systems**, and **Computer Networking**. [cite: 8, 9, 10]
+* 💻 **FRONTEND:** **React** and **Angular** for building dynamic user interfaces.
+* ⚙️ **BACKEND:** **Node.js** and **Python** for robust backend logic.
+* ☁️ **CLOUD & DATA:** **AWS** and **Supabase** for cloud hosting and database management.
+* 🧠 **CORE SKILLS:** **Machine Learning Algorithms**, **Operating Systems**, and **Computer Networking**.
 
 ---
 
 ### 💼 **EXPERIENCE & PROJECTS**
 
-* [cite_start]🔭 **CURRENT FOCUS:** Completing my **Bachelor's in Computer Science** at **COMSATS University Islamabad** (Expected Jan 2026). [cite: 35, 36]
-* 🏢 **PAST ROLE:** **Full Stack Developer Intern** at **Asian Solutions Pvt. [cite_start]Ltd.** [cite: 28, 29]
-* 🛡️ **SPECIALIZATION:** Expert in building **Admin Panels** and **Single Sign-On (SSO)** applications with secure login handling. [cite: 22, 31, 32]
+* 🎓 **CURRENT FOCUS:** Completing my **Bachelor's in Computer Science** at **COMSATS University Islamabad** (Expected Jan 2026).
+* 🏢 **PAST ROLE:** **Full Stack Developer Intern** at **Asian Solutions Pvt. Ltd.**
+* 🛡️ **SPECIALIZATION:** Expert in building **Admin Panels** and **Single Sign-On (SSO)** applications with secure login handling.
 * 👯 **COLLABORATION:** Looking to collaborate on high-impact web solutions and **Next.js** applications.
-* 🤝 **HELP NEEDED WITH:** Optimizing web performance and advanced **cloud architecture** using **AWS**. 
 
 ---
 
 ### 🌱 **CONTINUOUS LEARNING**
 
-* [cite_start]**CURRENTLY LEARNING:** **Basics of AI Agents & Environments** and modern **Full Stack** frameworks. [cite: 15, 25]
-* [cite_start]**CERTIFIED IN:** **Basics of Artificial Intelligence**, **C Programming**, and **HTML/CSS in depth**. [cite: 12, 13, 14]
+* 🤖 **AI & AGENTS:** Exploring **Basics of AI Agents & Environments**.
+* 📜 **CERTIFICATIONS:** **Basics of AI**, **C Programming**, and **HTML/CSS in depth**.
 
 ---
 
 ### 💬 **LET'S TALK ABOUT**
-* **MERN stack development**, **deploying applications**, or how I handle **real-world data** to build complete applications. [cite: 33]
+* **MERN stack development**, **deploying applications**, or how I handle **real-world data** to build complete applications.
 
 ---
 
 ### ⚡ **FUN FACT**
-**I am always searching for new tools to build better, faster, and more efficient web applications!** [cite: 25]
+**I am always searching for new tools to build better, faster, and more efficient web applications!**
 
 ---
-**📍 Lahore, Punjab, Pakistan** [cite: 18]
-[cite_start]**🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-janisar-091053371)** [cite: 5, 6] | [cite_start]**🌐 [Portfolio](https://janisarhyder.netlify.app/)** [cite: 6]
+**📍 Lahore, Punjab, Pakistan**
+**🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-janisar-091053371)** | **🌐 [Portfolio](https://janisarhyder.netlify.app/)**
 
 My Portfolio: https://janisarhyder.netlify.app/<br><br>
 
